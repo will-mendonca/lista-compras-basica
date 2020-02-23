@@ -1,0 +1,9 @@
+C:\Users\Pichau\source\repos\Lista\ListaView\bin\Debug\ListaView.exe.config
+C:\Users\Pichau\source\repos\Lista\ListaView\bin\Debug\ListaView.exe
+C:\Users\Pichau\source\repos\Lista\ListaView\bin\Debug\ListaView.pdb
+C:\Users\Pichau\source\repos\Lista\ListaView\obj\Debug\Lista.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\Lista\ListaView\obj\Debug\ListaView.View.resources
+C:\Users\Pichau\source\repos\Lista\ListaView\obj\Debug\ListaView.Properties.Resources.resources
+C:\Users\Pichau\source\repos\Lista\ListaView\obj\Debug\Lista.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\Lista\ListaView\obj\Debug\ListaView.exe
+C:\Users\Pichau\source\repos\Lista\ListaView\obj\Debug\ListaView.pdb
